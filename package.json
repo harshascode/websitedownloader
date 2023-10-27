@@ -1,9 +1,9 @@
 {
-  "name": "website-downloader",
+  "name": "websitedownloader",
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node app.js",
+    "start": "node ./bin/www",
     "dev": "export NODE_ENV=Development && npm start"
   },
   "dependencies": {
